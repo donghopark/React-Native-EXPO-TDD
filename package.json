@@ -17,12 +17,10 @@
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0",
+    "jest": "^24.8.0",
     "jest-expo": "^32.0.0",
     "react-native-testing-library": "^1.7.0",
     "react-test-renderer": "^16.8.6"
   },
-  "private": true,
-  "detox": {
-    "test-runner": "jest"
-  }
+  "private": true
 }
